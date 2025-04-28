@@ -30,6 +30,6 @@ Implement simple and multiple linear regression using the given Housing dataset.
 - Coefficients of each feature were shown.
 
 ## Model Evaluation
-Mean Absolute Error (MAE) | ~970,043
-Mean Squared Error (MSE) | ~1,754,318,687,331
-R² Score | ~0.64
+Mean Absolute Error (MAE) ~970,043
+Mean Squared Error (MSE) ~1,754,318,687,331
+R² Score ~0.64
